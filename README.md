@@ -10,3 +10,8 @@ Bar Charts: Trip Cost vs. Driver Cost and Cab Demand by Days.
 Line Chart: Trip Cost by Category.
 The project started by creating dummy data with Python, followed by data cleaning, organizing, and transforming it into actionable insights. The use of slicers makes the dashboard interactive and user-friendly.
 I’d love for you to check it out and share your thoughts! Feedback and suggestions are always welcome.
+
+
+
+
+![Dashboard Screenshot](assets/dashboard.png)
